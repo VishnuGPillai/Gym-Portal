@@ -1,9 +1,9 @@
 # VISHNU'S GYM
-![LandingPage]()
+https://vishnu-gym.netlify.app/
 
 ## About The Project
 
-[VISHNU'S Gym](https://eniola-gym-portfolio.vercel.app/) is an online website where you get to join the legend of fitness around the world : )
+[VISHNU'S Gym](https://vishnu-gym.netlify.app/) is an online website where you get to join the legend of fitness around the world : )
 
 ## Requirement
 
