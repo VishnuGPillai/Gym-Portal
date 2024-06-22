@@ -9,7 +9,7 @@ import { IoLogoWhatsapp } from "react-icons/io";
 const Contact = () => {
 	return (
 		<>
-			<Header title="Gt In Touch" image={HeaderImage}>
+			<Header title="GET IN TOUCH ⏬" image={HeaderImage}>
 				
 			</Header>
 
